@@ -21,3 +21,7 @@ also include sla metrics
 query used in jira;
 
 project = "MS Center for Study of Insurance Operations" and createdDate >= "2020-01-01 00:00" and createdDate <= "2022-07-25 23:59" AND issueType != "sub-task"
+----
+
+1. extract data as .csv
+2. rename to 'CSIO-Jira-Extract'; for standardization
