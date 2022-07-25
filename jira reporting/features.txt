@@ -25,3 +25,4 @@ project = "MS Center for Study of Insurance Operations" and createdDate >= "2020
 
 1. extract data as .csv
 2. rename to 'CSIO-Jira-Extract'; for standardization
+3. for update; just replace the onedrive file.
