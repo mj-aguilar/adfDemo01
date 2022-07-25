@@ -1,0 +1,23 @@
+[6:50 PM] Aguilar, Manuel J. L.
+total created tickets / month
+
+[6:51 PM] Aguilar, Manuel J. L.
+by severity p1.p2,p3
+#tickets by status
+
+[6:56 PM] Aguilar, Manuel J. L.
+total spent per severity
+
+[6:56 PM] Aguilar, Manuel J. L.
+time spent is in seconds
+
+[6:58 PM] Aguilar, Manuel J. L.
+also include sla metrics
+
+[6:58 PM] Aguilar, Manuel J. L.
+*report in hours
+
+--------]
+query used in jira;
+
+project = "MS Center for Study of Insurance Operations" and createdDate >= "2020-01-01 00:00" and createdDate <= "2022-07-25 23:59" AND issueType != "sub-task"
